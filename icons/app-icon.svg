@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Zahlen-Bingo">
+  <rect width="512" height="512" rx="96" fill="#fff"/>
+  <rect x="48" y="48" width="416" height="416" rx="54" fill="none" stroke="#000" stroke-width="28"/>
+  <g stroke="#000" stroke-width="18">
+    <path d="M131 70v372M214 70v372M298 70v372M381 70v372"/>
+    <path d="M70 131h372M70 214h372M70 298h372M70 381h372"/>
+  </g>
+  <path d="M256 226l10 21 23 3-17 16 4 23-20-11-20 11 4-23-17-16 23-3z" fill="#000"/>
+</svg>
